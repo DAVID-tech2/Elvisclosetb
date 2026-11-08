@@ -1,0 +1,6 @@
+{
+  "name": "ELVIS' ELEGANT CLOSET",
+  "description": "Premier fashion boutique in Mukono, Uganda offering contemporary men's & women's fashion, shoes, and accessories with instant Mobile Money payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
